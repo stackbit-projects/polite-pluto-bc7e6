@@ -48,6 +48,9 @@ seo:
 layout: post
 ---
 
+
+![](images/20210829\_030829.jpg)
+
 Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
 
 > The fox never found a better messenger than himself.
@@ -56,7 +59,7 @@ As the programming of <a title="Japan" href="http://en.wikipedia.org/wiki/Japan"
 
 Japan’s educational, economical and political systems remained hidebound bulwarks of traditional behavior. The politically guided economic system in particular was able to generate enormous power that could be directed with the precision of a laser beam.
 
-Twelve species belong to the monophyletic group of Vulpes genus of **"true foxes"**. Approximately another 25 current or extinct species are always or sometimes called foxes; these foxes are either part of the paraphyletic group of the South American foxes, or of the outlying group, which consists of bat-eared fox, gray fox, and island fox. Foxes are found on every continent except Antarctica. By far the most common and widespread species of fox is the red fox *(Vulpes vulpes)* with about 47 recognized subspecies. 
+Twelve species belong to the monophyletic group of Vulpes genus of **"true foxes"**. Approximately another 25 current or extinct species are always or sometimes called foxes; these foxes are either part of the paraphyletic group of the South American foxes, or of the outlying group, which consists of bat-eared fox, gray fox, and island fox. Foxes are found on every continent except Antarctica. By far the most common and widespread species of fox is the red fox *(Vulpes vulpes)* with about 47 recognized subspecies.
 
 > The fox changes his fur but not his habits.
 
